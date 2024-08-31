@@ -1,0 +1,128 @@
+[
+  {
+    "expenseAmount": 1000,
+    "expenseCategory": "Travel",
+    "expenseDate": "2018-05-16",
+    "expenseId": "E18",
+    "expenseName": "bill1000"
+  },
+  {
+    "expenseAmount": 100,
+    "expenseCategory": "electr",
+    "expenseDate": "2023-10-12",
+    "expenseId": "E17",
+    "expenseName": "tuvu"
+  },
+  {
+    "expenseAmount": 100.2,
+    "expenseCategory": "water",
+    "expenseDate": "2020-01-15",
+    "expenseId": "E16",
+    "expenseName": "bill6"
+  },
+  {
+    "expenseAmount": 100,
+    "expenseCategory": "elc",
+    "expenseDate": "2022-02-12",
+    "expenseId": "E15",
+    "expenseName": "bill5"
+  },
+  {
+    "expenseAmount": 100,
+    "expenseCategory": "water",
+    "expenseDate": "2022-06-18",
+    "expenseId": "E14",
+    "expenseName": "bill4"
+  },
+  {
+    "expenseAmount": 200,
+    "expenseCategory": "elc",
+    "expenseDate": "2023-05-12",
+    "expenseId": "E13",
+    "expenseName": "bill3"
+  },
+  {
+    "expenseAmount": 100.6,
+    "expenseCategory": "water",
+    "expenseDate": "2024-05-12",
+    "expenseId": "E12",
+    "expenseName": "bill1"
+  },
+  {
+    "expenseAmount": 100,
+    "expenseCategory": "el",
+    "expenseDate": "2024-08-16",
+    "expenseId": "E11",
+    "expenseName": "bill1"
+  },
+  {
+    "expenseAmount": 100,
+    "expenseCategory": "elect",
+    "expenseDate": "2024-05-06",
+    "expenseId": "E10",
+    "expenseName": "bill3"
+  },
+  {
+    "expenseAmount": 100,
+    "expenseCategory": "elect",
+    "expenseDate": "2024-08-20",
+    "expenseId": "E9",
+    "expenseName": "bill3"
+  },
+  {
+    "expenseAmount": 10,
+    "expenseCategory": "electr",
+    "expenseDate": "2024-08-20",
+    "expenseId": "E8",
+    "expenseName": "bill3"
+  },
+  {
+    "expenseAmount": 15.8,
+    "expenseCategory": "water",
+    "expenseDate": "2024-06-18",
+    "expenseId": "E7",
+    "expenseName": "bill2"
+  },
+  {
+    "expenseAmount": 100,
+    "expenseCategory": "electrical",
+    "expenseDate": "2024-05-06",
+    "expenseId": "E6",
+    "expenseName": "bill1"
+  },
+  {
+    "expenseAmount": 1200.5,
+    "expenseCategory": "Rent",
+    "expenseDate": "2024-08-01",
+    "expenseId": "E1",
+    "expenseName": "Rent"
+  },
+  {
+    "expenseAmount": 250.75,
+    "expenseCategory": "Food",
+    "expenseDate": "2024-08-05",
+    "expenseId": "E2",
+    "expenseName": "Groceries"
+  },
+  {
+    "expenseAmount": 45,
+    "expenseCategory": "Entertainment",
+    "expenseDate": "2024-08-10",
+    "expenseId": "E3",
+    "expenseName": "Movie Night"
+  },
+  {
+    "expenseAmount": 600,
+    "expenseCategory": "Travel",
+    "expenseDate": "2024-08-15",
+    "expenseId": "E4",
+    "expenseName": "Flight Tickets"
+  },
+  {
+    "expenseAmount": 85.5,
+    "expenseCategory": "Shopping",
+    "expenseDate": "2024-08-20",
+    "expenseId": "E5",
+    "expenseName": "New Shoes"
+  }
+]

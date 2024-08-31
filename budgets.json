@@ -1,0 +1,18 @@
+[
+  {
+    "budgetCategory": "Food",
+    "budgetAmount": 10.0
+  },
+  {
+    "budgetCategory": "Transport",
+    "budgetAmount": 10
+  },
+  {
+    "budgetCategory": "Entertainment",
+    "budgetAmount": 10
+  },
+  {
+    "budgetCategory": "Utilities",
+    "budgetAmount": 200
+  }
+]

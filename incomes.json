@@ -1,0 +1,50 @@
+[
+  {
+    "incomeAmount": 300,
+    "incomeDate": "2024-08-20",
+    "incomeId": "I8",
+    "incomeSource": "sal2"
+  },
+  {
+    "incomeAmount": 200,
+    "incomeDate": "2024-05-12",
+    "incomeId": "I7",
+    "incomeSource": "sal1"
+  },
+  {
+    "incomeAmount": 100,
+    "incomeDate": "2024-05-06",
+    "incomeId": "I6",
+    "incomeSource": "sal1"
+  },
+  {
+    "incomeAmount": 3000,
+    "incomeDate": "2024-08-01",
+    "incomeId": "I1",
+    "incomeSource": "Salary"
+  },
+  {
+    "incomeAmount": 500,
+    "incomeDate": "2024-08-05",
+    "incomeId": "I2",
+    "incomeSource": "Freelance"
+  },
+  {
+    "incomeAmount": 200,
+    "incomeDate": "2024-08-07",
+    "incomeId": "I3",
+    "incomeSource": "Investment"
+  },
+  {
+    "incomeAmount": 100,
+    "incomeDate": "2024-08-10",
+    "incomeId": "I4",
+    "incomeSource": "Gift"
+  },
+  {
+    "incomeAmount": 300,
+    "incomeDate": "2024-08-12",
+    "incomeId": "I5",
+    "incomeSource": "Side Business"
+  }
+]
