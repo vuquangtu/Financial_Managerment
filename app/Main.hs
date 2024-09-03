@@ -1,4 +1,3 @@
-
 import           Control.Exception    (SomeException, try)
 import           Data.Aeson           (FromJSON, ToJSON, eitherDecode, encode)
 import qualified Data.ByteString.Lazy as B
@@ -392,9 +391,6 @@ checkedBudgets expensesPath budgetsPath = do
     (_, Left err) -> putStrLn $ "Error loading budgets: " ++ show err
 
 --------------------------------------------------------------------------------
-
-
-
 main :: IO ()
 main = mainMenu
 
